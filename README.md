@@ -60,12 +60,12 @@ banco_faiss_ia/: Diretório contendo os arquivos indexados e serializados do ban
 
 ## 3. Autores
 
-- Lucas Tuon de Matos - TIA: 10417987
+- Lucas Tuon de Matos - RA: 10417987
 
-- Matteo Porcare - TIA: 10418276
+- Matteo Porcare - RA: 10418276
 
-- Tomy Goldberg Boimel - TIA: 10417109
+- Tomy Goldberg Boimel - RA: 10417109
 
-- Yuri Milliet - TIA: 10417884
+- Yuri Milliet - RA: 10417884
 
 Para mais informações consulte o RelatorioProjetoIA.pdf
