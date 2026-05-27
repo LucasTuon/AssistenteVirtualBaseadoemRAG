@@ -1,3 +1,9 @@
+# INTEGRANTES DO GRUPO:
+# Matteo Porcare           10418276
+# Tomy Goldberg Boimel     10417109
+# Yuri Milliet             10417884
+# Lucas Tuon de Matos      10417987
+
 import streamlit as st
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
